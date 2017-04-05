@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-s.name             = 'UMengPush'´
+s.name             = 'UMengPush'
 s.version          = '1.5.0'
 s.summary          = 'UMeng Push SDK 1.5.0(IDFA)'
 
