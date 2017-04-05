@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/UMengPush.svg?style=flat)](http://cocoapods.org/pods/UMengPush)
 [![Platform](https://img.shields.io/cocoapods/p/UMengPush.svg?style=flat)](http://cocoapods.org/pods/UMengPush)
 
-主要是为了管理和维护方便，对友盟官方SDK进行添加到cocoapod，尽量保证及时同步官方SDK，如有疑问可以邮件联系。
+主要是为了管理和维护方便，将友盟官方SDK(IDFA版本)添加到cocoapod，尽量保证及时同步官方SDK，如有疑问欢迎邮件联系。
 
 [友盟官方SDK下载地址](http://dev.umeng.com/push/ios/sdk-download)
 
