@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UMengPush_Example' do
+  pod 'UMengPush', :path => '../'
+
+  target 'UMengPush_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
