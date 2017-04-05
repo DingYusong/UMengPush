@@ -1,0 +1,16 @@
+PODS:
+  - UMengPush (1.5.0)
+
+DEPENDENCIES:
+  - UMengPush (from `../`)
+
+EXTERNAL SOURCES:
+  UMengPush:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UMengPush: fad4725b8377687277ecaaccc2da5f695e0b20af
+
+PODFILE CHECKSUM: 0a7ea5b97dd9030e1ab18e102cae42c6396a0094
+
+COCOAPODS: 1.2.0
